@@ -5,4 +5,7 @@ colors
 vibrant 
  Dark colors 
 video calls 
+payment option 
+send money 
+Receive money 
 
